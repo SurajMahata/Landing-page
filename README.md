@@ -1,2 +1,2 @@
 # Landing-page
-It is my fitness website landing page
+My fitness website landing page
